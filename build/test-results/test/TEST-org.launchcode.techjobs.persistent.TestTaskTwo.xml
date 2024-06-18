@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.launchcode.techjobs.persistent.TestTaskTwo" tests="27" skipped="0" failures="0" errors="0" timestamp="2024-06-18T03:09:20" hostname="Johnnys-MacBook-Pro.local" time="0.097">
+  <properties/>
+  <testcase name="testNameFieldHasCorrectAnnotations()" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.009"/>
+  <testcase name="testEmployerHasDefaultConstructor()" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.0"/>
+  <testcase name="testIdFieldHasCorrectAnnotations()" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.001"/>
+  <testcase name="testLocationHasCorrectValidationAnnotations()" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.001"/>
+  <testcase name="testNewSkillIsSaved(SkillRepository, Errors)" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.041"/>
+  <testcase name="testSkillHasPersistenceAnnotation()" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.001"/>
+  <testcase name="testEmployerRepositoryHasRepositoryAnnotation()" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.001"/>
+  <testcase name="testEmployerControllerIndexMethodDefinition(EmployerRepository)" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.006"/>
+  <testcase name="testDescriptionFieldHasPublicAccessors()" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.0"/>
+  <testcase name="testDisplayViewEmployerCallsFindById(EmployerRepository)" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.001"/>
+  <testcase name="testSkillHasDescriptionField()" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.0"/>
+  <testcase name="testSkillRepositoryHasRepositoryAnnotation()" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.0"/>
+  <testcase name="testSqlQuery()" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.003"/>
+  <testcase name="testEmployerHasLocationField()" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.0"/>
+  <testcase name="testSkillControllerIndexMethodDefinition(SkillRepository)" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.001"/>
+  <testcase name="testSkillRepositoryExists()" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.0"/>
+  <testcase name="testSkillHasDefaultConstructor()" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.0"/>
+  <testcase name="testSkillRepositoryImplementsJpaInterface()" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.001"/>
+  <testcase name="testLocationFieldHasPublicAccessors()" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.0"/>
+  <testcase name="testEmployerRepositoryDefinition()" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.001"/>
+  <testcase name="testDisplayViewSkillCallsFindById(SkillRepository)" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.003"/>
+  <testcase name="testSkillRepositoryDefinition()" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.001"/>
+  <testcase name="testEmployerHasPersistenceAnnotation()" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.0"/>
+  <testcase name="testNewEmployerIsSaved(EmployerRepository, Errors)" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.013"/>
+  <testcase name="testAbstractEntityHasCorrectAnnotation()" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.0"/>
+  <testcase name="testEmployerRepositoryExists()" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.0"/>
+  <testcase name="testEmployerRepositoryImplementsJpaInterface()" classname="org.launchcode.techjobs.persistent.TestTaskTwo" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
